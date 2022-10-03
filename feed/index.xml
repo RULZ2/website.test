@@ -9,8 +9,8 @@
 
 <channel>
 	<title>TORRENTS</title>
-	<atom:link href="/https://rulz2.github.io/website.test/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://rulz2.github.io/website.test</link>
+	<atom:link href="https://rulz2.github.io/website.test/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rulz2.github.io/website.test</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 02 Oct 2022 09:29:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,18 +21,18 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Home Page</title>
-		<link>/https://rulz2.github.io/website.test/2022/10/02/home-page/</link>
-					<comments>/https://rulz2.github.io/website.test/2022/10/02/home-page/#comments</comments>
+		<link>https://rulz2.github.io/website.test/2022/10/02/home-page/</link>
+					<comments>https://rulz2.github.io/website.test/2022/10/02/home-page/#comments</comments>
 		
 		<dc:creator><![CDATA[thfrulz]]></dc:creator>
 		<pubDate>Sun, 02 Oct 2022 09:29:26 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://rulz2.github.io/website.test/?p=9</guid>
+		<guid isPermaLink="false">https://rulz2.github.io/website.test/?p=9</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/https://rulz2.github.io/website.test/2022/10/02/home-page/feed/</wfw:commentRss>
+					<wfw:commentRss>https://rulz2.github.io/website.test/2022/10/02/home-page/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

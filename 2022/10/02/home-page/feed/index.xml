@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Home Page	</title>
-	<atom:link href="/https://rulz2.github.io/website.test/2022/10/02/home-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://rulz2.github.io/website.test/2022/10/02/home-page/</link>
+	<atom:link href="https://rulz2.github.io/website.test/2022/10/02/home-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rulz2.github.io/website.test/2022/10/02/home-page/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 02 Oct 2022 09:41:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: thfrulz		</title>
-		<link>/https://rulz2.github.io/website.test/2022/10/02/home-page/#comment-2</link>
+		<link>https://rulz2.github.io/website.test/2022/10/02/home-page/#comment-2</link>
 
 		<dc:creator><![CDATA[thfrulz]]></dc:creator>
 		<pubDate>Sun, 02 Oct 2022 09:41:47 +0000</pubDate>
-		<guid isPermaLink="false">/https://rulz2.github.io/website.test/?p=9#comment-2</guid>
+		<guid isPermaLink="false">https://rulz2.github.io/website.test/?p=9#comment-2</guid>
 
 					<description><![CDATA[test]]></description>
 			<content:encoded><![CDATA[<p>test</p>
